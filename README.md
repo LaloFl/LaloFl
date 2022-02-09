@@ -5,7 +5,7 @@
 ## About me
 
 - 📓 I like learning new technologies to bring the best experience to my clients
-- ⚡ I'm a fast learner and a team player
+- ⚡ I'm a fast learner
 - 💡 I'm a problem solver and a team player
 
 ## Technology Stack
