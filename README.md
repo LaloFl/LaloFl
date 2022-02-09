@@ -17,6 +17,7 @@
 - **Testing** - Jest
 - **Version Control** - Git, Github
 
+<div>
 <!-- Javascript -->
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30px" height="30px" />
 <!-- HTML5 -->
@@ -41,6 +42,7 @@
 <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="MySQL" width="30px" height="30px" />
 <!-- Java -->
 <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="30px" height="30px" />
+</div>
 
 #### Student at **Instituto Tecnológico de Tijuana** - [ITT](https://www.tijuana.tecnm.mx/)
 
