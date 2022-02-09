@@ -46,10 +46,10 @@
 
 #### Student at **Instituto Tecnológico de Tijuana** - [ITT](https://www.tijuana.tecnm.mx/)
 
-|       | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
+|       | Lunes                           | Martes                          | Miércoles                       | Jueves                          | Viernes                         |
 | ----- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
-| 13:00 | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos |
-| 14:00 | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          |
+| 13:00 | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos |
+| 14:00 | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          |
 | 15:00 | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         |
 | 16:00 | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           |                                 |
 | 17:00 | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   |                                 |
