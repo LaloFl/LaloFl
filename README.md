@@ -17,7 +17,11 @@
 - **Testing** - Jest
 - **Version Control** - Git, Github
 
-<div>
+<div style="
+display: grid;
+grid-template-columns: repeat(8, 1fr);
+grid-gap: 1rem;
+">
 <!-- Javascript -->
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40px" height="40px" />
 <!-- HTML5 -->
