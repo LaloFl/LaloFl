@@ -13,7 +13,7 @@
 - **Frontend** - React, NextJS, Styled Components, Bootstrap
 - **Backend** - NodeJS, Express, MongoDB, Django, JWT
 - **Database** - SQL Server, MySQL, MongoDB
-- **DevOps** - AWS, Heroku, Netlify
+- **DevOps** - Heroku, Netlify
 - **Testing** - Jest
 - **Version Control** - Git, Github
 
@@ -42,9 +42,17 @@
 <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="MySQL" width="40px" height="40px" />
 <!-- Java -->
 <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="40px" height="40px" />
+<!-- Heroku -->
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40px" height="40px" />
+<!-- Netlify -->
+<img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png" alt="Netlify" width="40px" height="40px" />
+<!-- Git -->
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" width="40px" height="40px" />
+<!-- GitHub -->
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40px" height="40px" />
 </div>
 
-#### Student at **Instituto Tecnológico de Tijuana** - [ITT](https://www.tijuana.tecnm.mx/)
+#### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
 
 |       | Lunes                           | Martes                          | Miércoles                       | Jueves                          | Viernes                         |
 | ----- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
