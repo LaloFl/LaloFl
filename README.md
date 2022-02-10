@@ -52,7 +52,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40px" height="40px" />
 </div>
 
-#### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="my gif" width="650px" style="margin-top:20px;margin-bottom:20px;">
+
+### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
 
 |       | Lunes                           | Martes                          | Miércoles                       | Jueves                          | Viernes                         |
 | ----- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
