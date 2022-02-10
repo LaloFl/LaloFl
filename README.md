@@ -52,7 +52,14 @@
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40px" height="40px" />
 </div>
 
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="my gif" width="650px" style="margin-top:20px;margin-bottom:20px;">
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="my gif" width="650px" 
+style="
+margin-top:20px;
+margin-bottom:20px;
+border-radius:5px;
+box-shadow: 0px 0px 10px #000000;
+align-self:center;
+">
 
 ### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
 
