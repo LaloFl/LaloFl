@@ -30,7 +30,7 @@ grid-gap: 1rem;
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40px" height="40px" />
 <!-- React -->
 <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="React" width="40px" height="40px" />
-<!-- NextJS --> 
+<!-- NextJS -->     
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/nextjs.png" alt="NextJS" width="40px" height="40px" />
 <!-- NodeJS -->
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="40px" height="40px" />
@@ -64,6 +64,10 @@ border-radius:5px;
 box-shadow: 0px 0px 10px #000000;
 align-self:center;
 ">
+
+## Intership at [Samsung MX](https://www.samsung.com/mx/)
+
+<img src="https://cdn-icons-png.flaticon.com/512/882/882747.png" alt="Samsung" width="230px" height="230px" />
 
 ### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
 
