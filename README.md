@@ -65,7 +65,7 @@ box-shadow: 0px 0px 10px #000000;
 align-self:center;
 ">
 
-## Intership at [Samsung MX](https://www.samsung.com/mx/)
+## Internship at [Samsung MX](https://www.samsung.com/mx/)
 
 <img src="https://cdn-icons-png.flaticon.com/512/882/882747.png" alt="Samsung" width="230px" height="230px" />
 
