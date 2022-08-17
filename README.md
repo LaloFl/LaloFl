@@ -69,13 +69,3 @@ align-self:center;
 
 <img src="https://cdn-icons-png.flaticon.com/512/882/882747.png" alt="Samsung" width="230px" height="230px" />
 
-### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
-
-|       | Lunes                           | Martes                          | Miércoles                       | Jueves                          | Viernes                         |
-| ----- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
-| 13:00 | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos |
-| 14:00 | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          |
-| 15:00 | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         |
-| 16:00 | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           |                                 |
-| 17:00 | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   |                                 |
-| 18:00 | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            |
