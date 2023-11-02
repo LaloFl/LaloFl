@@ -10,12 +10,14 @@
 
 ## Technology Stack
 
-- **Frontend** - React, NextJS, Styled Components, Bootstrap
-- **Backend** - NodeJS, Express, MongoDB, Django, JWT
-- **Database** - SQL Server, MySQL, MongoDB
-- **DevOps** - Heroku, Netlify
-- **Testing** - Jest
+- **Frontend** - React, Flutter Web, Tailwind, Bootstrap
+- **SSR** - NextJS, Qwik
+- **Backend** - NodeJS, NGINX, PHP8, Express, Django
+- **Mobile** - Flutter, React Native
+- **Database** - SQL Server, MySQL, MongoDB, (any SQL or NoSQL)
+- **DevOps** - Heroku, Netlify, Vercel
 - **Version Control** - Git, Github
+- **Misc** - Strapi, GraphQL
 
 <div style="
 display: grid;
@@ -55,15 +57,6 @@ grid-gap: 1rem;
 <!-- GitHub -->
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40px" height="40px" />
 </div>
-
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="my gif" width="650px" 
-style="
-margin-top:20px;
-margin-bottom:20px;
-border-radius:5px;
-box-shadow: 0px 0px 10px #000000;
-align-self:center;
-">
 
 ## Internship at [Samsung MX](https://www.samsung.com/mx/)
 
