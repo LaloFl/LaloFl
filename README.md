@@ -1,81 +1,35 @@
-### Hi, im Diego Flores, I'm a web developer
+### Hi, I'm Diego Flores, an experienced web developer
 
 ![LaloFl's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaloFl&show_icons=true)
 
 ## About me
 
+- 💻 Currently working as a Software Engineer at [ITJuana](https://itj.com/)
+- 🌱 I did my internship at [Samsung](https://www.samsung.com/)
+- 🎓 Graduated from [Instituto Tecnológico de Tijuana](https://www.tijuana.tecnm.mx/) with a degree in Computer Systems Engineering
+- 📱 I've also deeply worked with mobile technologies
 - 📓 I like learning new technologies to bring the best experience to my clients
 - ⚡ I'm a fast learner
 - 💡 I'm a problem solver and a team player
 
-## Technology Stack
-
-- **Frontend** - React, NextJS, Styled Components, Bootstrap
-- **Backend** - NodeJS, Express, MongoDB, Django, JWT
-- **Database** - SQL Server, MySQL, MongoDB
-- **DevOps** - Heroku, Netlify
-- **Testing** - Jest
-- **Version Control** - Git, Github
+## Skills
 
 <div style="
 display: grid;
 grid-template-columns: repeat(8, 1fr);
 grid-gap: 1rem;
 ">
-<!-- Javascript -->
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40px" height="40px" />
-<!-- HTML5 -->
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40px" height="40px" />
-<!-- CSS3 --> 
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40px" height="40px" />
-<!-- React -->
-<img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="React" width="40px" height="40px" />
-<!-- NextJS -->     
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/nextjs.png" alt="NextJS" width="40px" height="40px" />
-<!-- NodeJS -->
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="40px" height="40px" />
-<!-- Python -->
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40px" height="40px" />
-<!-- Django -->
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40px" height="40px" />
-<!-- C# -->
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40px" height="40px" />
-<!-- SQL Server -->
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40px" height="40px" />
-<!-- MySQL -->
-<img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="MySQL" width="40px" height="40px" />
-<!-- Java -->
-<img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="40px" height="40px" />
-<!-- Heroku -->
-<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40px" height="40px" />
-<!-- Netlify -->
-<img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3629537-3032320.png" alt="Netlify" width="40px" height="40px" />
-<!-- Git -->
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" width="40px" height="40px" />
-<!-- GitHub -->
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40px" height="40px" />
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalofl&show_icons=true&locale=en&layout=compact" alt="lalofl" /></p>
 
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="my gif" width="650px" 
+<!-- <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="my gif" width="650px"
 style="
 margin-top:20px;
 margin-bottom:20px;
 border-radius:5px;
 box-shadow: 0px 0px 10px #000000;
 align-self:center;
-">
-
-## Internship at [Samsung MX](https://www.samsung.com/mx/)
+"> -->
 
 <img src="https://cdn-icons-png.flaticon.com/512/882/882747.png" alt="Samsung" width="230px" height="230px" />
-
-### Student at [**Instituto Tecnológico de Tijuana**](https://www.tijuana.tecnm.mx/)
-
-|       | Lunes                           | Martes                          | Miércoles                       | Jueves                          | Viernes                         |
-| ----- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
-| 13:00 | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos | Administración de Base de Datos |
-| 14:00 | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          | Ingeniería de Software          |
-| 15:00 | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         |
-| 16:00 | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           |                                 |
-| 17:00 | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   |                                 |
-| 18:00 | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            |
