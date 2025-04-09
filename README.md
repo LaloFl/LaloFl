@@ -1,4 +1,4 @@
-### Hi, I'm Diego Flores, an experienced web developer
+### Hi, I'm Diego Flores, an experienced Software Engineer
 
 ![LaloFl's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaloFl&show_icons=true)
 
